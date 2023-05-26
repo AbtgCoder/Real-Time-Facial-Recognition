@@ -1,6 +1,5 @@
 
 
-```markdown
 # Siamese Network for Face Recognition
 
 This repository contains code for training and evaluating a Siamese Network for face recognition using TensorFlow. The network is trained on a dataset of anchor, positive, and negative images to learn embeddings that can distinguish between similar and dissimilar faces.
@@ -83,4 +82,4 @@ The project is open source and released under the terms of the MIT License. See 
 
 For any questions or inquiries, you can reach me at:
 - Email:  [abtgofficial@gmail.com](mailto:abtgofficial@gmail.com)
-```
+

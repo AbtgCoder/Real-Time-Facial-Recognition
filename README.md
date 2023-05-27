@@ -74,9 +74,9 @@ After training and evaluation, the model's performance will be displayed, includ
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License](LICENSE.txt)
 
-The project is open source and released under the terms of the MIT License. See the [LICENSE](LICENSE) file for more details.
+The project is open source and released under the terms of the MIT License. See the [LICENSE](LICENSE,txt) file for more details.
 
 ## Contact
 
